@@ -1,0 +1,7 @@
+{
+    "type": "json",
+    "DEBUG_MODE": true,
+    "OUTPUT_INFO": true,
+    "BROADCAST_INTERVAL": 1000,
+    "ARCHIVE_INTERVAL": 10000
+}

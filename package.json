@@ -1,0 +1,25 @@
+{
+  "name": "StockTickerService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "run": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@types/pg": "^8.11.14",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "kafkajs": "^2.2.4",
+    "pg": "^8.15.6",
+    "ts-node": "^10.9.2"
+  }
+}
