@@ -64,7 +64,7 @@ Your Kafka service should now be running on port 9092.
 
 1. Clone a copy of the application from github. This can be done in the git command line;
 ```
-git clone TODO
+git clone https://github.com/MatthewBryanCC/apache-kafka-stock-market-example.git
 ```
 2. Install all the dependencies for the project;
 ```
